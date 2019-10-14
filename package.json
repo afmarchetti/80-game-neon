@@ -2,12 +2,12 @@
   "name": "80-game-neon",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Syntax theme for Atom based on 80's neon color",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/80-game-neon",
+  "repository": "https://github.com/afmarchetti/80-game-neon",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
