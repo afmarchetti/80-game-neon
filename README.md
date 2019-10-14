@@ -1,5 +1,5 @@
 # 80-game-neon theme
 
-A short description of your theme.
+Cool Syntax Theme for Atom based on 80's neon colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://raw.githubusercontent.com/afmarchetti/80-game-neon/master/screenshot.jpg)
