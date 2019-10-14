@@ -1,8 +1,8 @@
 {
   "name": "80-game-neon",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "Syntax theme for Atom based on 80's neon color",
+  "version": "1.0.0",
+  "description": "Cool Syntax Theme for Atom based on 80's neon colors",
   "keywords": [
     "syntax",
     "theme"
