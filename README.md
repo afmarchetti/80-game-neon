@@ -1,4 +1,4 @@
-# 80-game-neon theme
+# 80 Game Neon - Syntax Theme
 
 Cool Syntax Theme for Atom based on 80's neon colors.
 
